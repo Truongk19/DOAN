@@ -1,0 +1,18 @@
+H:\Đồ án 1\DTO\bin\Debug\DTO.dll
+H:\Đồ án 1\DTO\bin\Debug\DTO.pdb
+H:\Đồ án 1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+H:\Đồ án 1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+H:\Đồ án 1\DTO\obj\Debug\DTO.dll
+H:\Đồ án 1\DTO\obj\Debug\DTO.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\DTO\bin\Debug\DTO.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\DTO\bin\Debug\DTO.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\DTO\bin\Debug\DTO.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\DTO\bin\Debug\DTO.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,33 @@
+H:\Đồ án 1\BLL\bin\Debug\BLL.dll
+H:\Đồ án 1\BLL\bin\Debug\BLL.pdb
+H:\Đồ án 1\BLL\bin\Debug\DAL.dll
+H:\Đồ án 1\BLL\bin\Debug\DTO.dll
+H:\Đồ án 1\BLL\bin\Debug\DAL.pdb
+H:\Đồ án 1\BLL\bin\Debug\DTO.pdb
+H:\Đồ án 1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\Đồ án 1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\Đồ án 1\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\Đồ án 1\BLL\obj\Debug\BLL.dll
+H:\Đồ án 1\BLL\obj\Debug\BLL.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\BLL.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\BLL.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DAL.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DTO.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DAL.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DTO.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\BLL.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\BLL.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DAL.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DTO.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DAL.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\bin\Debug\DTO.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\BLL\obj\Debug\BLL.pdb

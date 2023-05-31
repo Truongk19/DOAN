@@ -1,0 +1,66 @@
+H:\Đồ án 1\QLNS_Pro\bin\Debug\QLNS_Pro.exe.config
+H:\Đồ án 1\QLNS_Pro\bin\Debug\QLNS_Pro.exe
+H:\Đồ án 1\QLNS_Pro\bin\Debug\QLNS_Pro.pdb
+H:\Đồ án 1\QLNS_Pro\bin\Debug\BLL.dll
+H:\Đồ án 1\QLNS_Pro\bin\Debug\DTO.dll
+H:\Đồ án 1\QLNS_Pro\bin\Debug\DAL.dll
+H:\Đồ án 1\QLNS_Pro\bin\Debug\BLL.pdb
+H:\Đồ án 1\QLNS_Pro\bin\Debug\DTO.pdb
+H:\Đồ án 1\QLNS_Pro\bin\Debug\DAL.pdb
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.AssemblyReference.cache
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.SuggestedBindingRedirects.cache
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.Properties.Resources.resources
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.GenerateResource.cache
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.CoreCompileInputs.cache
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.CopyComplete
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.exe
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.pdb
+H:\Đồ án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_NhanVien.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\QLNS_Pro.exe.config
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\QLNS_Pro.exe
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\QLNS_Pro.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\BLL.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DTO.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DAL.dll
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\BLL.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DTO.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DAL.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.AssemblyReference.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.SuggestedBindingRedirects.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_NhanVien.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.Properties.Resources.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.GenerateResource.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.CoreCompileInputs.cache
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.CopyComplete
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.exe
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_Main.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_PhongBan.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_TrinhDo.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_ChucVu.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\QLNS_Pro.exe.config
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\QLNS_Pro.exe
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\QLNS_Pro.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\BLL.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DTO.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DAL.dll
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\BLL.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DTO.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\bin\Debug\DAL.pdb
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.AssemblyReference.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.SuggestedBindingRedirects.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_ChucVu.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_HopDong.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_Main.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_NhanVien.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_PhongBan.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_TrinhDo.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.Properties.Resources.resources
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.GenerateResource.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.CoreCompileInputs.cache
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.CopyComplete
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.exe
+D:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.pdb
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_BaoHiem.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.frm_HopDong.resources
+F:\Đồ án QLNS_Pro\Đồ Án 1\QLNS_Pro\obj\Debug\QLNS_Pro.csproj.ResolveComReference.cache
